@@ -1,2 +1,2 @@
-# goit-js-hw-01
+Halil Direm
 GoIT - JavaScript HW 01
